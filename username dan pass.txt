@@ -1,0 +1,11 @@
+===== admin =====
+username == admin
+pass == admin
+
+===== petugas ====
+username == petugas
+pass == petugas
+
+===== siswa ====
+username == siswa
+pass == siswa
